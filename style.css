@@ -43,13 +43,14 @@ ul > li:hover{
 }
 
 table, td, tr{
-    border: 2px solid black;
+    border: 1px solid white;
     border-collapse: collapse;
     padding: 5px 13px;
 }
 
 .container {
     max-width: 80vw;
+    height: 100vh;
     margin: 23px auto;
 }
 
